@@ -1,0 +1,14 @@
+{
+  "mx": {
+    "agent": "AGENTES",
+    "creditToYourMeasure": "PRODUCTOS",
+    "refer": "REFIERE Y GANA",
+    "callToAction": "SOLICITAR CRÉDITO"
+  },
+  "do": {
+    "agent": "CORREDORES",
+    "creditToYourMeasure": "PRODUCTOS",
+    "refer": "REFIERE Y GANA",
+    "callToAction": "SOLICITAR PRÉSTAMO"
+  }
+}
