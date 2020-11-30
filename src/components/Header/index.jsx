@@ -58,7 +58,6 @@ const Header = () => {
           className="justify-content-center"
         >
           <LinkPage href="/soporte/">Soporte</LinkPage>
-          <LinkPage href="/mapa-geografico/">Mapa Geográfico</LinkPage>
         </Navbar.Collapse>
       </Container>
     </NavbarContainer>

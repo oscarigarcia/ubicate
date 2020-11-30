@@ -49,7 +49,7 @@ const Layout = ({ children, background }) => {
             },
           }}
         />
-        <main style={{ position: "relative", top: "-30rem" }}>{children}</main>
+        <main style={{ position: "relative", top: "-51rem" }}>{children}</main>
       </div>
       <Footer />
     </Fragment>
